@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rydergallagher
-- 👀 I’m interested in software
+- 👋 Hi, I’m Ryder Gallagher
+- 👀 I’m interested in software, machine learning, and security
 - 🌱 I’m currently learning C++ and Python but I'm looking to learn Java and C# in the future
 - 💞️ I’m looking to collaborate on any small projects
 - 📫 How to reach me: rgallagher03@yahoo.com
