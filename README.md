@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rydergallagher
 - 👀 I’m interested in software
-- 🌱 I’m currently learning C++ but looking to learn Python, Java, and C# in the future
+- 🌱 I’m currently learning C++ and Python but I'm looking to learn Java and C# in the future
 - 💞️ I’m looking to collaborate on any small projects
 - 📫 How to reach me: rgallagher03@yahoo.com
 
