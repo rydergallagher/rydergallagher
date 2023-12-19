@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ryder Gallagher
 - 👀 I’m interested in software, machine learning, and security
-- 🌱 I’m currently learning C++, Python, and Java but I'm looking to learn C# in the future
+- 🌱 I can code in C++, Python, Java, and x86-64 assembly code
+- 🌱 I am currently learning to code in Rust and C#, and practicing making projects
 - 💞️ I’m looking to collaborate on any small projects
 - 📫 How to reach me: rgallagher03@yahoo.com
 
